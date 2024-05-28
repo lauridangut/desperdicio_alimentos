@@ -8,7 +8,7 @@
 
 La pérdida y el desperdicio de alimentos es un problema global significativo que impacta tanto la seguridad alimentaria como el medio ambiente. La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) recopila datos sobre las cantidades de alimentos desperdiciados en diferentes etapas de la cadena de suministro. Utilizar series de tiempo para analizar y predecir estas pérdidas puede ayudar a implementar mejores estrategias para reducir el desperdicio. 
 
-[![Watch the video](https://img.youtube.com/vi/jsE4HS4-cvY&ab_channel=Alexdoa/maxresdefault.jpg)](https://www.youtube.com/watch?v=jsE4HS4-cvY&ab_channel=Alexdoa)
+[![Watch the video](https://img.youtube.com/vi/jsE4HS4-cvY/maxresdefault.jpg)]
 
 ## Disponibilidad de datos e infraestructura
 
